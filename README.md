@@ -46,7 +46,7 @@ Open up a terminal
 git clone https://github.com/lorenzosmusic/i-never-wanted-to-say-remix-stems.git
 ```
 
-When you are done you could add your remix to the `remixes` and submit a `pull request` and once approved we would add it to the project.
+When you are done you could add your remix to the `remixes` folder and submit a `pull request` and once approved we would add it to the project.
 
 ---
 
