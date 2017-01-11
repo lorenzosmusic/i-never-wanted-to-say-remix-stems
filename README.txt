@@ -6,11 +6,16 @@ We are looking for remixers to work on the song "I Never Wanted to Say". Anyone 
 
 You can add, remove & alter the music for the song to be any style you want. The best thing about remixes are originality.
 
+## Song Info
+
+**BPM:** 144bpm
+
 There is an mp3 of the official song release in the `mp3` folder you can use as a reference.
 
 You can also hear the song on our YouTube Channel.
 
 [YouTube Link -->](https://www.youtube.com/watch?v=jKi5ldQ6qAQ)
+
 
 ## Instructions
 
@@ -46,8 +51,10 @@ Open up a terminal
 git clone https://github.com/lorenzosmusic/i-never-wanted-to-say-remix-stems.git
 ```
 
-When you are done you could add your remix to the `remixes` and submit a `pull request` and once approved we would add it to the project.
+When you are done you could add your remix to the `remixes` folder and submit a `pull request` and once approved we would add it to the project.
 
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">I Never Wanted To Say</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.lorenzosmusic.com" property="cc:attributionName" rel="cc:attributionURL">Lorenzo's Music</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+I Never Wanted To Say by Lorenzo's Music is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.

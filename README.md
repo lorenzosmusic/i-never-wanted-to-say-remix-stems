@@ -6,11 +6,16 @@ We are looking for remixers to work on the song "I Never Wanted to Say". Anyone 
 
 You can add, remove & alter the music for the song to be any style you want. The best thing about remixes are originality.
 
+## Song Info
+
+**BPM:** 144bpm
+
 There is an mp3 of the official song release in the `mp3` folder you can use as a reference.
 
 You can also hear the song on our YouTube Channel.
 
 [YouTube Link -->](https://www.youtube.com/watch?v=jKi5ldQ6qAQ)
+
 
 ## Instructions
 
