@@ -19,7 +19,7 @@ You can also hear the song on our YouTube Channel.
 
 ## Instructions
 
-1. Grab the audio stems to use are in the `stems` folder.
+1. Grab the audio stems to use in the `stems` folder.
 
 2. Import them to the DAW (Digital Audio Workstation) of your choice like Protools, Cubase, Ardour, etc...
 
